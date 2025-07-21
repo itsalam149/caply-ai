@@ -82,7 +82,7 @@ reel-caption-pro/
 └── README.md
 ```
 
-## 넥스트 단계
+## next step
 
 * **Backend Integration**: Connect the upload form to the real backend service for video processing.
 * **Advanced Editor Features**: Implement font family selection, color pickers, and shadow/outline controls.
